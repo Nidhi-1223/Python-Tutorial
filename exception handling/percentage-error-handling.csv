@@ -1,0 +1,4 @@
+StudentID,rollno,name,mobileNo,emailID,address,p1,p2,p3,p4,p5,total,percentage,status
+23,34,wertyu,123456789,qwertyui,qwertyuio,78,89,90,89,90,0,0,
+22,34,qwerty,1234567890,qwertyuiop,qwedvghyujik,45,56,67,78,89,0,0,
+11,233,qwertyuiop,1234567890,qwertyuiop,wesdfgyht,45,56,67,88,90,346,69.2,pass
